@@ -1,6 +1,6 @@
 public class RobotMove {
 
-    //Contains the total number of paths
+    //Arvind Kumar
     public static int paths=0;
 
     public static void main(String[] args) {
